@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there! 🙋‍♂️
+I'm Sushil, 
+a Computer Science graduate currently pursuing a Master's in Computer Science..
+
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.Proficient in multiple programming languages, including C, Python, Java and Hibernate Framework, with a strong foundation in software development.
+
+Additionally, I bring a creative edge with experience in graphic design, utilizing tools such as Adobe Photoshop and Illustrator to produce high-quality visual content. Committed to leveraging technical expertise and design skills to contribute to innovative projects and drive technological advancement. Outside of work, I'm interested in furthering my knowledge in the tech world.
 
 <!--
 **Sushil-27/Sushil-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
