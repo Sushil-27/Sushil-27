@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sushil Dhun</h1>
 <h3 align="center">Combining Technical Expertise with Creative Design to Build Scalable, Engaging Software Solutions</h3>
 
-a Computer Science graduate currently pursuing a Master's in Computer Science..
+A Computer Science graduate currently pursuing a Master's in Computer Science..
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.Proficient in multiple programming languages, including C, Python, Java and Hibernate Framework, with a strong foundation in software development.
 
