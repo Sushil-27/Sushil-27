@@ -1,13 +1,14 @@
-# Hi there! 🙋‍♂️
-I'm Sushil, 
+
+
+
+<h1 align="center">Hi 👋, I'm Sushil Dhun</h1>
+<h3 align="center">Combining Technical Expertise with Creative Design to Build Scalable, Engaging Software Solutions</h3>
+
 a Computer Science graduate currently pursuing a Master's in Computer Science..
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.Proficient in multiple programming languages, including C, Python, Java and Hibernate Framework, with a strong foundation in software development.
 
 Additionally, I bring a creative edge with experience in graphic design, utilizing tools such as Adobe Photoshop and Illustrator to produce high-quality visual content. Committed to leveraging technical expertise and design skills to contribute to innovative projects and drive technological advancement. Outside of work, I'm interested in furthering my knowledge in the tech world.
-
-<h1 align="center">Hi 👋, I'm Sushil Dhun</h1>
-<h3 align="center">Combining Technical Expertise with Creative Design to Build Scalable, Engaging Software Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil-27&label=Profile%20views&color=0e75b6&style=flat" alt="sushil-27" /> </p>
 
